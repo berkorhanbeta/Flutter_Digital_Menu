@@ -17,3 +17,10 @@ Some of the codes are removed from this example.
 The system uses a SQL database.
 
 You can review full version of this web app from https://arayuz.appbeta.net/digital-menu/
+
+## Screenshot From Application
+![Screenshot](screen-1.png)
+![Screenshot](screen-2.png)
+![Screenshot](screen-3.png)
+![Screenshot](screen-4.png)
+![Screenshot](screen-5.png)
