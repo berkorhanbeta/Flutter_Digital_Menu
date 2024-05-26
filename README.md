@@ -1,16 +1,26 @@
-# qr_menu
+# Digital Menu Web And Mobile Application, develop with Flutter Framework
 
-A new Flutter project.
+## Important Warning ! :
 
-## Getting Started
+We have the right to take legal action in the event that the application is shared on the internet, distribution, claiming right ownership, selling it for a fee.
+These codes are shared only for you to learn the Flutter.
+Anyone who have access to the codes is agreed to have unconditionally accepted these terms.
 
-This project is a starting point for a Flutter application.
+All Rights Reserved.
 
-A few resources to get you started if this is your first Flutter project:
+APPBeta Mobile - www.APPBeta.net - Berk ORHAN BETA
+## About
+This is an Flutter application and includes 2 mobile platform and web app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Some of the codes are removed from this example.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The system uses a SQL database.
+
+You can review full version of this web app from https://digitalmenu.appbeta.net/
+
+## Screenshot From Application
+![Screenshot](screen-1.png)
+![Screenshot](screen-2.png)
+![Screenshot](screen-3.png)
+![Screenshot](screen-4.png)
+![Screenshot](screen-5.png)
